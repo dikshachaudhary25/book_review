@@ -1,0 +1,18 @@
+[
+  {
+    "isbn": "978-0451169518",
+    "title": "The Stand",
+    "author": "Stephen King",
+    "reviews": [
+      { "id": 1, "content": "Great book!", "user": "user1" }
+    ]
+  },
+  {
+    "isbn": "978-0446310789",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": [
+      { "id": 2, "content": "A classic.", "user": "user2" }
+    ]
+  }
+]
